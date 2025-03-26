@@ -14,7 +14,7 @@ import { Orbit } from "@/components/Orbit";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faCircleCheck,
-  faLongArrowRight,
+  
 } from "@fortawesome/free-solid-svg-icons";
 import { Logo } from "@/components/Logo";
 import Image from "next/image";
